@@ -1,5 +1,2 @@
 # github-test-project
-gittest
-While The Lorem Poast Fro fto Tore
-Tree
-FOrr
+Hey My name is Eli and I like to code! I am using git hub for big projects to host. I hope this will be a fun experience!
